@@ -1,0 +1,17 @@
+{
+    "name": "wy/mvc_new",
+    "authors": [
+        {
+            "name": "wy",
+            "email": "1157307108@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "./"
+        }
+    },
+    "require": {
+
+    }
+}
